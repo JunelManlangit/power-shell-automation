@@ -1,0 +1,4 @@
+name,samaccountname,OU,psswrd
+JuanDelaCruz,jcruz,"OU=testOU,DC=domain,DC=local",P@ssword123
+MariaSantos,msantos,"OU=testOU,DC=domain,DC=local",P@ssword123
+testuser,tuser,"OU=testOU,DC=domain,DC=local",P@ssword123
